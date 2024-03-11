@@ -1,0 +1,17 @@
+C:\Users\Thiago de sena\Documents\GitHub\C#\OpenCep\bin\Debug\net8.0\OpenCep.exe
+C:\Users\Thiago de sena\Documents\GitHub\C#\OpenCep\bin\Debug\net8.0\OpenCep.deps.json
+C:\Users\Thiago de sena\Documents\GitHub\C#\OpenCep\bin\Debug\net8.0\OpenCep.runtimeconfig.json
+C:\Users\Thiago de sena\Documents\GitHub\C#\OpenCep\bin\Debug\net8.0\OpenCep.dll
+C:\Users\Thiago de sena\Documents\GitHub\C#\OpenCep\bin\Debug\net8.0\OpenCep.pdb
+C:\Users\Thiago de sena\Documents\GitHub\C#\OpenCep\obj\Debug\net8.0\OpenCep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago de sena\Documents\GitHub\C#\OpenCep\obj\Debug\net8.0\OpenCep.AssemblyInfoInputs.cache
+C:\Users\Thiago de sena\Documents\GitHub\C#\OpenCep\obj\Debug\net8.0\OpenCep.AssemblyInfo.cs
+C:\Users\Thiago de sena\Documents\GitHub\C#\OpenCep\obj\Debug\net8.0\OpenCep.csproj.CoreCompileInputs.cache
+C:\Users\Thiago de sena\Documents\GitHub\C#\OpenCep\obj\Debug\net8.0\OpenCep.dll
+C:\Users\Thiago de sena\Documents\GitHub\C#\OpenCep\obj\Debug\net8.0\refint\OpenCep.dll
+C:\Users\Thiago de sena\Documents\GitHub\C#\OpenCep\obj\Debug\net8.0\OpenCep.pdb
+C:\Users\Thiago de sena\Documents\GitHub\C#\OpenCep\obj\Debug\net8.0\OpenCep.genruntimeconfig.cache
+C:\Users\Thiago de sena\Documents\GitHub\C#\OpenCep\obj\Debug\net8.0\ref\OpenCep.dll
+C:\Users\Thiago de sena\Documents\GitHub\C#\OpenCep\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Thiago de sena\Documents\GitHub\C#\OpenCep\obj\Debug\net8.0\OpenCep.csproj.AssemblyReference.cache
+C:\Users\Thiago de sena\Documents\GitHub\C#\OpenCep\obj\Debug\net8.0\OpenCep.csproj.Up2Date

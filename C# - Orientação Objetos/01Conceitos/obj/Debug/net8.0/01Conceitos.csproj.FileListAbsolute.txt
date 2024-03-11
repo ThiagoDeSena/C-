@@ -1,0 +1,14 @@
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\01Conceitos\bin\Debug\net8.0\01Conceitos.exe
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\01Conceitos\bin\Debug\net8.0\01Conceitos.deps.json
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\01Conceitos\bin\Debug\net8.0\01Conceitos.runtimeconfig.json
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\01Conceitos\bin\Debug\net8.0\01Conceitos.dll
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\01Conceitos\bin\Debug\net8.0\01Conceitos.pdb
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\01Conceitos\obj\Debug\net8.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\01Conceitos\obj\Debug\net8.0\01Conceitos.AssemblyInfoInputs.cache
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\01Conceitos\obj\Debug\net8.0\01Conceitos.AssemblyInfo.cs
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\01Conceitos\obj\Debug\net8.0\01Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\01Conceitos\obj\Debug\net8.0\01Conceitos.dll
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\01Conceitos\obj\Debug\net8.0\refint\01Conceitos.dll
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\01Conceitos\obj\Debug\net8.0\01Conceitos.pdb
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\01Conceitos\obj\Debug\net8.0\01Conceitos.genruntimeconfig.cache
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\01Conceitos\obj\Debug\net8.0\ref\01Conceitos.dll

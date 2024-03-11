@@ -1,0 +1,14 @@
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.AssemblyInfoInputs.cache
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.AssemblyInfo.cs
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.csproj.CoreCompileInputs.cache
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\04ExercicioIMC\bin\Debug\net8.0\04ExercicioIMC.exe
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\04ExercicioIMC\bin\Debug\net8.0\04ExercicioIMC.deps.json
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\04ExercicioIMC\bin\Debug\net8.0\04ExercicioIMC.runtimeconfig.json
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\04ExercicioIMC\bin\Debug\net8.0\04ExercicioIMC.dll
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\04ExercicioIMC\bin\Debug\net8.0\04ExercicioIMC.pdb
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.dll
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\04ExercicioIMC\obj\Debug\net8.0\refint\04ExercicioIMC.dll
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.pdb
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\04ExercicioIMC\obj\Debug\net8.0\04ExercicioIMC.genruntimeconfig.cache
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\04ExercicioIMC\obj\Debug\net8.0\ref\04ExercicioIMC.dll

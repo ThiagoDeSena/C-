@@ -1,0 +1,14 @@
+C:\Users\Thiago de sena\Documents\GitHub\C#\Consumindo Api com Console\bin\Debug\net8.0\Consumindo Api com Console.exe
+C:\Users\Thiago de sena\Documents\GitHub\C#\Consumindo Api com Console\bin\Debug\net8.0\Consumindo Api com Console.deps.json
+C:\Users\Thiago de sena\Documents\GitHub\C#\Consumindo Api com Console\bin\Debug\net8.0\Consumindo Api com Console.runtimeconfig.json
+C:\Users\Thiago de sena\Documents\GitHub\C#\Consumindo Api com Console\bin\Debug\net8.0\Consumindo Api com Console.dll
+C:\Users\Thiago de sena\Documents\GitHub\C#\Consumindo Api com Console\bin\Debug\net8.0\Consumindo Api com Console.pdb
+C:\Users\Thiago de sena\Documents\GitHub\C#\Consumindo Api com Console\obj\Debug\net8.0\Consumindo Api com Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago de sena\Documents\GitHub\C#\Consumindo Api com Console\obj\Debug\net8.0\Consumindo Api com Console.AssemblyInfoInputs.cache
+C:\Users\Thiago de sena\Documents\GitHub\C#\Consumindo Api com Console\obj\Debug\net8.0\Consumindo Api com Console.AssemblyInfo.cs
+C:\Users\Thiago de sena\Documents\GitHub\C#\Consumindo Api com Console\obj\Debug\net8.0\Consumindo Api com Console.csproj.CoreCompileInputs.cache
+C:\Users\Thiago de sena\Documents\GitHub\C#\Consumindo Api com Console\obj\Debug\net8.0\Consumindo Api com Console.dll
+C:\Users\Thiago de sena\Documents\GitHub\C#\Consumindo Api com Console\obj\Debug\net8.0\refint\Consumindo Api com Console.dll
+C:\Users\Thiago de sena\Documents\GitHub\C#\Consumindo Api com Console\obj\Debug\net8.0\Consumindo Api com Console.pdb
+C:\Users\Thiago de sena\Documents\GitHub\C#\Consumindo Api com Console\obj\Debug\net8.0\Consumindo Api com Console.genruntimeconfig.cache
+C:\Users\Thiago de sena\Documents\GitHub\C#\Consumindo Api com Console\obj\Debug\net8.0\ref\Consumindo Api com Console.dll

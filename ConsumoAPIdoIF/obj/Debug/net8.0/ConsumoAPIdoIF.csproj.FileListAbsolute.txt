@@ -1,0 +1,14 @@
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumoAPIdoIF\bin\Debug\net8.0\ConsumoAPIdoIF.exe
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumoAPIdoIF\bin\Debug\net8.0\ConsumoAPIdoIF.deps.json
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumoAPIdoIF\bin\Debug\net8.0\ConsumoAPIdoIF.runtimeconfig.json
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumoAPIdoIF\bin\Debug\net8.0\ConsumoAPIdoIF.dll
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumoAPIdoIF\bin\Debug\net8.0\ConsumoAPIdoIF.pdb
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumoAPIdoIF\obj\Debug\net8.0\ConsumoAPIdoIF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumoAPIdoIF\obj\Debug\net8.0\ConsumoAPIdoIF.AssemblyInfoInputs.cache
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumoAPIdoIF\obj\Debug\net8.0\ConsumoAPIdoIF.AssemblyInfo.cs
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumoAPIdoIF\obj\Debug\net8.0\ConsumoAPIdoIF.csproj.CoreCompileInputs.cache
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumoAPIdoIF\obj\Debug\net8.0\ConsumoAPIdoIF.dll
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumoAPIdoIF\obj\Debug\net8.0\refint\ConsumoAPIdoIF.dll
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumoAPIdoIF\obj\Debug\net8.0\ConsumoAPIdoIF.pdb
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumoAPIdoIF\obj\Debug\net8.0\ConsumoAPIdoIF.genruntimeconfig.cache
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumoAPIdoIF\obj\Debug\net8.0\ref\ConsumoAPIdoIF.dll

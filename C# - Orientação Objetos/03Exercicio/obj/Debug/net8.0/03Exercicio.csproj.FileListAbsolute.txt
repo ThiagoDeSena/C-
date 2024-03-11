@@ -1,0 +1,14 @@
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\03Exercicio\obj\Debug\net8.0\03Exercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\03Exercicio\obj\Debug\net8.0\03Exercicio.AssemblyInfoInputs.cache
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\03Exercicio\obj\Debug\net8.0\03Exercicio.AssemblyInfo.cs
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\03Exercicio\obj\Debug\net8.0\03Exercicio.csproj.CoreCompileInputs.cache
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\03Exercicio\bin\Debug\net8.0\03Exercicio.exe
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\03Exercicio\bin\Debug\net8.0\03Exercicio.deps.json
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\03Exercicio\bin\Debug\net8.0\03Exercicio.runtimeconfig.json
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\03Exercicio\bin\Debug\net8.0\03Exercicio.dll
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\03Exercicio\bin\Debug\net8.0\03Exercicio.pdb
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\03Exercicio\obj\Debug\net8.0\03Exercicio.dll
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\03Exercicio\obj\Debug\net8.0\refint\03Exercicio.dll
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\03Exercicio\obj\Debug\net8.0\03Exercicio.pdb
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\03Exercicio\obj\Debug\net8.0\03Exercicio.genruntimeconfig.cache
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\03Exercicio\obj\Debug\net8.0\ref\03Exercicio.dll

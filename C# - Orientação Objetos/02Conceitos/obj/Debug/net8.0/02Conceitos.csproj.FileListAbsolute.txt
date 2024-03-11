@@ -1,0 +1,14 @@
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\02Conceitos\obj\Debug\net8.0\02Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\02Conceitos\obj\Debug\net8.0\02Conceitos.AssemblyInfoInputs.cache
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\02Conceitos\obj\Debug\net8.0\02Conceitos.AssemblyInfo.cs
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\02Conceitos\obj\Debug\net8.0\02Conceitos.csproj.CoreCompileInputs.cache
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\02Conceitos\bin\Debug\net8.0\02Conceitos.exe
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\02Conceitos\bin\Debug\net8.0\02Conceitos.deps.json
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\02Conceitos\bin\Debug\net8.0\02Conceitos.runtimeconfig.json
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\02Conceitos\bin\Debug\net8.0\02Conceitos.dll
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\02Conceitos\bin\Debug\net8.0\02Conceitos.pdb
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\02Conceitos\obj\Debug\net8.0\02Conceitos.dll
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\02Conceitos\obj\Debug\net8.0\refint\02Conceitos.dll
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\02Conceitos\obj\Debug\net8.0\02Conceitos.pdb
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\02Conceitos\obj\Debug\net8.0\02Conceitos.genruntimeconfig.cache
+C:\Users\Thiago de sena\Documents\GitHub\C# - Orientação Objetos\02Conceitos\obj\Debug\net8.0\ref\02Conceitos.dll

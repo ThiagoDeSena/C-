@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsumoAPIdoIF", "ConsumoAPIdoIF.csproj", "{A4C62C0E-14BD-411D-86FE-31660F4D6759}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4C62C0E-14BD-411D-86FE-31660F4D6759}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C62C0E-14BD-411D-86FE-31660F4D6759}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C62C0E-14BD-411D-86FE-31660F4D6759}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C62C0E-14BD-411D-86FE-31660F4D6759}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E98D4F6-EC8D-4781-BD63-DA3D1CF77426}
+	EndGlobalSection
+EndGlobal

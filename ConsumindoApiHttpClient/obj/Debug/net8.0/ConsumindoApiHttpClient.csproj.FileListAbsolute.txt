@@ -1,0 +1,14 @@
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumindoApiHttpClient\bin\Debug\net8.0\ConsumindoApiHttpClient.exe
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumindoApiHttpClient\bin\Debug\net8.0\ConsumindoApiHttpClient.deps.json
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumindoApiHttpClient\bin\Debug\net8.0\ConsumindoApiHttpClient.runtimeconfig.json
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumindoApiHttpClient\bin\Debug\net8.0\ConsumindoApiHttpClient.dll
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumindoApiHttpClient\bin\Debug\net8.0\ConsumindoApiHttpClient.pdb
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumindoApiHttpClient\obj\Debug\net8.0\ConsumindoApiHttpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumindoApiHttpClient\obj\Debug\net8.0\ConsumindoApiHttpClient.AssemblyInfoInputs.cache
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumindoApiHttpClient\obj\Debug\net8.0\ConsumindoApiHttpClient.AssemblyInfo.cs
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumindoApiHttpClient\obj\Debug\net8.0\ConsumindoApiHttpClient.csproj.CoreCompileInputs.cache
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumindoApiHttpClient\obj\Debug\net8.0\ConsumindoApiHttpClient.dll
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumindoApiHttpClient\obj\Debug\net8.0\refint\ConsumindoApiHttpClient.dll
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumindoApiHttpClient\obj\Debug\net8.0\ConsumindoApiHttpClient.pdb
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumindoApiHttpClient\obj\Debug\net8.0\ConsumindoApiHttpClient.genruntimeconfig.cache
+C:\Users\Thiago de sena\Documents\GitHub\C#\ConsumindoApiHttpClient\obj\Debug\net8.0\ref\ConsumindoApiHttpClient.dll
